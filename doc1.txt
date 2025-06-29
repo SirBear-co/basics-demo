@@ -1,1 +1,2 @@
-Hello from doc 1
+Hello from doc 1Hello from doc 1
+Hello from doc 1 of bear
